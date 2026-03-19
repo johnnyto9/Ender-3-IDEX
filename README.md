@@ -10,7 +10,7 @@ For the second gantry I used the exact same pulley and belt as the stock X axis 
 For bed levelling i use a inductive 8mm 5V probe.
 
 This project requires a different, or second mainboard as it uses two (or three*) additional steppers, and a additional heater and thermistor.
-*i also opted for a dual z upgrade, i highly recommend it. 
+*i also opted for a dual z upgrade, I highly recommend it. 
 
 All the parts were bought off Aliexpress.
 
