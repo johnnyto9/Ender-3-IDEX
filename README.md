@@ -18,3 +18,5 @@ The printer is controlled with Klipper, and my prototype works decently well.
 
 This project is only a work in progress, i probably wont be releasing build instructions, only CAD, and it still is probably missing some parts. I decided to share it anyway, maybe it could be useful for somebody :)
 
+The link to this project on Printables:
+https://www.printables.com/model/1317347-ender-3-idex-wip/files
